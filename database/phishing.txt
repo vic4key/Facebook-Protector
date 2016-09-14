@@ -3,4 +3,5 @@ login-fbook.cf
 fbx-loginxx.cf
 vithuocquanhta.com
 kenh14news.com
+dantrinews.com
 facebookthailandoff.com
