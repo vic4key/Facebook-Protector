@@ -4,3 +4,7 @@ A Chrome extension to [protect your Facebook account](https://chrome.google.com/
 ## Install
 
 You can install directly from [Chrome Store](https://chrome.google.com/webstore/detail/facebook-protector/kadaffcnjkedoajdllakiaobgnmejfmb).
+
+## License
+
+[MIT](LICENSE) - https://junookyo.mit-license.org/
